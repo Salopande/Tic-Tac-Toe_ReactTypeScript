@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.board-wrapper{
+  width: 20%;
+  margin: auto;
+}
+.board-col{
+  height: 100px;
+  width: 75px;
+  border: 1px solid #ccc;
+  padding: 0 !important;
+}
+.borad-btn{
+  height: 100%;
+  width: 100%;
+  font-size: 80px;
+  color: #fff;
+}
+.square_O {
+  background-color: green;
+}
+
+.square_X {
+  background-color: red;
+}
+
+p {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 100px !important;
+}
